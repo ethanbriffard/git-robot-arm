@@ -2,8 +2,7 @@
 
 Project made to show my skills in robotic and improve them.
 <p align="center">
-  <img src="docs/Bras-robot-V1-cote.png" alt="Side view" width="300"/>
-  <img src="docs/Bras-robot-V1-dessus.png" alt="Top view" width="300"/>
+  <img src="docs/Bras-robot-V1-cote.png" width="350"/>
 </p>
 ## Index of the Project
 
@@ -29,10 +28,11 @@ Project made to show my skills in robotic and improve them.
 
 ## CAD
 The modelisations are in the /CAD folder.
-![Arm Exploded view ](docs/Vue-eclatee-bras.png)
 <p align="center">
-  <img src="docs/Bras-robot-V1-cote.png" alt="Robot arm V1" width="450"/>
+  <img src="docs/Vue-eclatee-bras.png" alt="Side view" width="300"/>
+  <img src="docs/Vue-eclatee-main.png" alt="Top view" width="300"/>
 </p>
+
 
 
 
