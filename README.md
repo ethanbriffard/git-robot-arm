@@ -1,8 +1,10 @@
 # Robotic arm
 
 Project made to show my skills in robotic and improve them.
-![Robot arm V1](docs/Bras-robot-V1-cote.png)
-
+<p align="center">
+  <img src="docs/Bras-robot-V1-cote.png" alt="Side view" width="300"/>
+  <img src="docs/Bras-robot-V1-dessus.png" alt="Top view" width="300"/>
+</p>
 ## Index of the Project
 
 - [x] CAD Onshape
@@ -18,7 +20,7 @@ Project made to show my skills in robotic and improve them.
 | Step motor     | 17he15 1504s    | 1        |
 | Step motor     | 28byj-48   | 1        |
 | IMU     | MPU6050   | 2        |
-| Card     | arduino Uno   | 1        |
+| Card     | Arduino Uno  | 1        |
 | Battery 12V     | None   | 2        |
 
 
@@ -28,6 +30,14 @@ Project made to show my skills in robotic and improve them.
 ## CAD
 The modelisations are in the /CAD folder.
 ![Arm Exploded view ](docs/Vue-eclatee-bras.png)
+<p align="center">
+  <img src="docs/Bras-robot-V1-cote.png" alt="Robot arm V1" width="450"/>
+</p>
+
+
+
+
+
 
 
 ## Electronics (Coming soon)
