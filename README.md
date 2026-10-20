@@ -4,6 +4,7 @@ Project made to show my skills in robotic and improve them.
 <p align="center">
   <img src="docs/Bras-robot-V1-cote.png" width="350"/>
 </p>
+
 ## Index of the Project
 
 - [x] CAD Onshape
@@ -20,7 +21,7 @@ Project made to show my skills in robotic and improve them.
 | Step motor     | 28byj-48   | 1        |
 | IMU     | MPU6050   | 2        |
 | Card     | Arduino Uno  | 1        |
-| Battery 12V     | None   | 2        |
+| Battery 12V     | None   | 1        |
 
 
 
