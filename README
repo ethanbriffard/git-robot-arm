@@ -1,7 +1,7 @@
 # Robotic arm
 
 Project made to show my skills in robotic and improve them.
-(docs/Bras-robot-V1-cote.png)
+![Robot arm V1](docs/Bras-robot-V1-cote.png)
 
 ## Index of the Project
 
@@ -15,6 +15,7 @@ Project made to show my skills in robotic and improve them.
 
 ## CAD
 The modelisations are in the /CAD folder.
+![exploded view arm](docs/Vue-éclatée-bras.png)
 
 
 ## Electronics (On coming)
