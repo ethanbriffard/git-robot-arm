@@ -34,20 +34,12 @@ void setup() {
   myStepper.setSpeed(10);
   pinMode(buttonPin2, INPUT_PULLUP);
   pinMode(buttonPin3, INPUT_PULLUP);
-  // Begin Serial communication at a baud rate of 9600:
+
   Serial.begin(9600);
 }
 
 void loop() {
-  // Step one revolution in one direction:
-  //Serial.println("clockwise");
-  //myStepper.step(stepsPerRevolution/8);
-  //delay(500);
-  
-  // Step one revolution in the other direction:
-  //Serial.println("counterclockwise");
-  //myStepper.step(-stepsPerRevolution/8);
-  //delay(500);
+
 
   if (digitalRead(buttonPin2) == LOW && (millis() - debounce2) > 500) {
     motorState = !motorState;
