@@ -31,7 +31,7 @@ unsigned long debounce3=0;
 
 void setup() {
   // Set the speed between 4 and 12 rpm included:
-  myStepper.setSpeed(10);
+  myStepper.setSpeed(5);
   pinMode(buttonPin2, INPUT_PULLUP);
   pinMode(buttonPin3, INPUT_PULLUP);
 
