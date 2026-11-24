@@ -3,8 +3,8 @@
 Project made to show my skills in robotic and improve them.
 ### First version -> Last version
 <p align="center">
-  <img src="docs/V1_assembly.png" alt="Side view" width="300"/>
-  <img src="docs/V2_assembly.png" alt="Top view" width="300"/>
+  <img src="docs/V1-assembly.png" alt="Side view" width="300"/>
+  <img src="docs/V2-assembly.png" alt="Top view" width="300"/>
 </p>
 
 
